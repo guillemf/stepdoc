@@ -30,5 +30,8 @@ let package = Package(
         .testTarget(
             name: "stepdocTests",
             dependencies: ["stepdoc"]),
+        .testTarget(
+            name: "unitTests",
+            dependencies: ["stepdocLib"]),
     ]
 )

@@ -144,3 +144,5 @@ build/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/swiftpm,swiftpackagemanager,xcode,appcode
+
+.swiftpm
